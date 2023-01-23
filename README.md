@@ -1,4 +1,4 @@
-# Analise-de-dados-do-IDESP
+# Analise de dados do IDESP
 
 O repositório tem como objetivo analizar dados do IDESP do estado de São Paulo entre os anos de 2007 a 2019 para o ensino médio, foi considerado analisar os municipios que possuem maior idesp e os municipios que possuem mais escolas avaliadas, sendo São Paulo o múnicipio com mais escolas avaliadas, foi também avaliado o IDESP para as regiões Centro, Sul, Norte e Leste da cidade.
 
